@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-Link do strony z zadaniem domowym [Studio](https://malgorzatakuszewska.github.io/goit-markup-hw-01/)
+# goit-markup-hw-02
+
+Link do strony z zadaniem domowym [Portfolio](https://malgorzatakuszewska.github.io/goit-markup-hw-02/)git
